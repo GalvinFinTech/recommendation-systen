@@ -5,3 +5,4 @@ plotly
 scipy
 joblib
 streamlit_lottie
+openpyxl
